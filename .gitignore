@@ -1,0 +1,41 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Gradle Files
+.gradle/
+build/
+*/build/
+*/.config.cache
+out/
+*/out/
+
+# Log Files
+*.log
+logs/
+log/
+
+# IntelliJ Files
+*.iml
+*/*.iml
+.idea/
+*/.idea/
+
+# OSX Files
+*/.DS_Store
+.DS_Store
+
+# Other Files
+Thumbs.db
+*.bak
+*.tem
+*.temp
+
+# Maven Files
+target/
+
+# gRPC Source Files
+*/generatedSrc/
+
+# gradle wrapper Files
+# /gradle/
+# /gradlew
+# /gradlew.bat
